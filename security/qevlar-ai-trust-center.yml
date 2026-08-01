@@ -1,0 +1,25 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.qevlar.com/llms.txt
+url: https://www.qevlar.com/faq
+certifications:
+- SOC 2 Type 2
+evidence:
+- source: https://www.qevlar.com/llms.txt
+  keywords:
+  - soc 2 type 2
+  quote: >-
+    The company is headquartered in Paris, France, and is SOC 2 Type 2
+    certified. The SaaS platform is hosted in the EU (Belgium) on GCP.
+- source: https://www.qevlar.com/faq
+  keywords:
+  - soc 2 type 2
+  quote: >-
+    SOC 2 Type 2 certified, meaning an independent auditor has verified that our
+    security controls are designed effectively and operate consistently over
+    time.
+data_residency: EU (Belgium), hosted on Google Cloud Platform (GCP)
+note: >-
+  No dedicated trust-center/security portal page is published; the SOC 2 Type 2
+  certification is documented on the public FAQ and llms.txt. No ISO 27001, PCI,
+  HIPAA, or FedRAMP claims were found.

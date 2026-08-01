@@ -1,0 +1,66 @@
+# Qevlar AI
+
+> Qevlar AI is an autonomous SOC platform that investigates every security alert like your top analyst would — without playbooks, without hallucinations, and without adding headcount. Trusted by Fortune Global 500 enterprises and leading MSSPs across Europe and the US.
+
+Qevlar AI was founded in 2023 by Ahmed Achchak and Hamza Sayah, two machine learning engineers. The company is headquartered in Paris, France, and is SOC 2 Type 2 certified. The SaaS platform is hosted in the EU (Belgium) on GCP.
+
+## What Qevlar AI does
+
+Qevlar AI automates alert triage, enrichment, and investigation across the full security stack. As soon as an alert is triggered from SIEM/EDR tools, Qevlar autonomously pulls, enriches, and analyzes data from internal and external sources — then delivers a conclusive verdict (malicious or benign), a comprehensive investigation report, and recommended remediation actions.
+
+Key metrics: investigations completed in under 3 minutes, up to 80% of tickets closed automatically, 24/7 continuous coverage with no backlog.
+
+Unlike LLM-based agents, Qevlar's core engine is a proprietary graph-based AI orchestrator that delivers deterministic, evidence-based reasoning — ensuring consistent and reproducible results across every investigation.
+
+## Who it's for
+
+- **Enterprise SOC teams** struggling with alert overload, analyst burnout, and missed threats
+- **MSSPs and MDRs** needing to scale investigations across multiple tenants without adding headcount
+
+## Pages
+
+- [Home](https://www.qevlar.com/): Overview of the autonomous SOC platform, key capabilities, customer reviews, and integrations.
+- [Product](https://www.qevlar.com/product): Deep dive into how Qevlar AI works — model training, investigation pipeline, deployment options, and explainability.
+- [Solutions](https://www.qevlar.com/solutions): Hub page for all Qevlar AI security solutions by threat type and customer profile.
+- [Network Security](https://www.qevlar.com/solutions/network): Autonomous investigation of network security alerts — reduces noise, isolates incidents, and accelerates remediation.
+- [Identity Security](https://www.qevlar.com/solutions/identity): End-to-end autonomous investigation of identity alerts with conclusive outcomes and comprehensive reports.
+- [Cloud Security](https://www.qevlar.com/solutions/cloud): Autonomous cloud security alert investigation — highlights threats and suggests remedial action.
+- [Phishing](https://www.qevlar.com/solutions/phishing): 24/7 autonomous phishing alert investigation with adaptive AI that keeps up with evolving tactics.
+- [Enterprise](https://www.qevlar.com/solutions/enterprise): Autonomous SOC platform for enterprise teams — reduces burnout, eliminates alert backlog, maximizes efficiency.
+- [MSSPs & MDRs](https://www.qevlar.com/solutions/mssps): Multi-tenant autonomous investigation platform built for MSSPs and MDRs to deliver security at scale.
+- [Integrations](https://www.qevlar.com/integrations): Full list of supported integrations including Microsoft, CrowdStrike, Palo Alto, SentinelOne, Splunk, Google SecOps, and more.
+- [Customer Stories](https://www.qevlar.com/customer-stories): Case studies from security leaders at Fortune Global 500 enterprises and leading MSSPs.
+- [Blog](https://www.qevlar.com/post): Insights and resources for running a high-performing, low-friction SOC.
+- [FAQ](https://www.qevlar.com/faq): Answers to common questions about Qevlar AI's technology, integrations, deployment, security, and pricing.
+- [About](https://www.qevlar.com/about): The story, mission, team, and awards behind Qevlar AI.
+- [Careers](https://www.qevlar.com/careers): Open roles for people passionate about AI and cybersecurity.
+
+## Integrations
+
+Qevlar AI connects via API to the security tools your team already uses:
+
+**SIEM:** Microsoft Sentinel, Splunk, QRadar, Google SecOps, Sekoia.io
+**EDR/XDR:** CrowdStrike, SentinelOne, Microsoft Defender, Cortex XDR, Cortex XSIAM
+**Cloud:** Microsoft Azure, Microsoft Entra ID, AWS CloudTrail, AWS GuardDuty, Palo Alto Prisma, Google Cloud, Netskope, Zscaler
+**Email:** Microsoft Exchange, Mimecast, Proofpoint
+**Threat Intelligence:** VirusTotal, AbuseIPDB, Urlscan, Hybrid Analysis, Any.run, Joe Sandbox, Shodan, Nmap
+**Ticketing/SOAR:** ServiceNow, The Hive
+**Other:** IPinfo, BigDataCloud, Unshorten.me, Wireshark, Fortinet
+
+## Awards & recognition
+
+- Best Partner — Orange Cyberdefense Innovation Award
+- Product of the Year 2025 — MSP Today
+- Growth Award — Forum InCyber
+- Top 100 cybersecurity companies shaping the AI space — Headline
+- Top 100 most promising AI companies shaping the future of Europe — Headline
+
+## Company
+
+- Website: https://www.qevlar.com
+- LinkedIn: https://www.linkedin.com/company/qevlar
+- Headquarters: Paris, France
+- Founded: 2023
+- Founders: Ahmed Achchak, Hamza Sayah
+- Hosting: GCP, EU (Belgium)
+- Certification: SOC 2 Type 2
