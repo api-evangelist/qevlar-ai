@@ -17,6 +17,17 @@ description: >-
   is trusted by Fortune Global 500 enterprises and leading MSSPs/MDRs across
   Europe and the US. Backed by EQT Ventures and Partech.
 url: https://raw.githubusercontent.com/api-evangelist/qevlar-ai/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
